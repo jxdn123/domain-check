@@ -1,11 +1,11 @@
 [
   { "domain": "594886.xyz", "registrationDate": "2025-02-23", "expirationDate": "2035-02-23", "system": "SpaceShip", "systemURL": "https://www.spaceship.com/zh" },
-  { "domain": "aigc.ip-ddns.com", "registrationDate": "2025-03-27", "expirationDate": "2026-03-27", "system": "Cloudns", "systemURL": "https://www.cloudns.net" },
-  { "domain": "doii.dpdns.org", "registrationDate": "2025-01-27", "expirationDate": "2026-01-27", "system": "DigitalPlat FreeDomain", "systemURL": "https://domain.digitalplat.org" },
-  { "domain": "tesla.cc.ua", "registrationDate": "2025-03-29", "expirationDate": "2030-03-29", "system": "1gb.ua", "systemURL": "https://www.1gb.ua" },
-  { "domain": "ai-future.dpdns.org", "registrationDate": "2024-09-09", "expirationDate": "2026-09-09", "system": "DigitalPlat FreeDomain", "systemURL": "https://domain.digitalplat.org" },
   { "domain": "aigc.cc.ua", "registrationDate": "2024-10-02", "expirationDate": "2029-10-02", "system": "1gb.ua", "systemURL": "https://www.1gb.ua" },
-  { "domain": "docc.dpdns.org", "registrationDate": "2024-09-09", "expirationDate": "2026-09-09", "system": "DigitalPlat FreeDomain", "systemURL": "https://domain.digitalplat.org" },
+  { "domain": "spacex.cc.ua", "registrationDate": "2025-04-06", "expirationDate": "2030-04-06", "system": "1gb.ua", "systemURL": "https://www.1gb.ua" },
+  { "domain": "ai-future.dpdns.org", "registrationDate": "2025-09-09", "expirationDate": "2026-09-09", "system": "DigitalPlat FreeDomain", "systemURL": "https://domain.digitalplat.org" },
+  { "domain": "docc.dpdns.org", "registrationDate": "2025-09-09", "expirationDate": "2026-09-09", "system": "DigitalPlat FreeDomain", "systemURL": "https://domain.digitalplat.org" },
+  { "domain": "doii.dpdns.org", "registrationDate": "2025-01-27", "expirationDate": "2026-01-27", "system": "DigitalPlat FreeDomain", "systemURL": "https://domain.digitalplat.org" },
+  { "domain": "uskg.cloudns.ch", "registrationDate": "2025-03-27", "expirationDate": "2026-03-27", "system": "Cloudns", "systemURL": "https://www.cloudns.net" },
   { "domain": "tesla.ddns-ip.net", "registrationDate": "2025-03-30", "expirationDate": "2026-03-30", "system": "Cloudns", "systemURL": "https://www.cloudns.net" },
-  { "domain": "uskg.cloudns.ch", "registrationDate": "2025-03-27", "expirationDate": "2026-03-27", "system": "Cloudns", "systemURL": "https://www.cloudns.net" }
+  { "domain": "aigc.ip-ddns.com", "registrationDate": "2025-03-27", "expirationDate": "2026-03-27", "system": "Cloudns", "systemURL": "https://www.cloudns.net" }
 ]
