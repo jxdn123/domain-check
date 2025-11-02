@@ -6,5 +6,7 @@
   { "domain": "doii.dpdns.org", "registrationDate": "2026-01-27", "expirationDate": "2027-01-27", "system": "DigitalPlat FreeDomain", "systemURL": "https://domain.digitalplat.org" },
   { "domain": "uskg.cloudns.ch", "registrationDate": "2025-03-27", "expirationDate": "2026-03-27", "system": "Cloudns", "systemURL": "https://www.cloudns.net" },
   { "domain": "tesla.ddns-ip.net", "registrationDate": "2025-03-30", "expirationDate": "2026-03-30", "system": "Cloudns", "systemURL": "https://www.cloudns.net" },
-  { "domain": "aigc.ip-ddns.com", "registrationDate": "2025-03-27", "expirationDate": "2026-03-27", "system": "Cloudns", "systemURL": "https://www.cloudns.net" }
+  { "domain": "aigc.ip-ddns.com", "registrationDate": "2025-03-27", "expirationDate": "2026-03-27", "system": "Cloudns", "systemURL": "https://www.cloudns.net" },
+  { "domain": "elon.netlib.re", "registrationDate": "2025-11-02", "expirationDate": "2026-11-02", "system": "netlib.re", "systemURL": "https://www.netlib.re" },
+  { "domain": "musk.netlib.re", "registrationDate": "2025-11-02", "expirationDate": "2026-11-02", "system": "netlib.re", "systemURL": "https://www.netlib.re" }
 ]
